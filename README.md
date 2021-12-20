@@ -1,5 +1,7 @@
 # odin-recipes
 
+Page can be viewed at: https://arito7.github.io/odin-recipes/
+
 A webpage utilizing 
 - img
 - a
