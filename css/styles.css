@@ -1,0 +1,21 @@
+h1 {
+    color: rgb(228, 138, 138);
+    font-size: 2em;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+a {
+    font-weight: bold;
+}
+
+ul, ol, p, h1, h2, .img-container {
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.5em;
+    color: rgb(228, 138, 138);
+}
