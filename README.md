@@ -9,3 +9,4 @@ html tags
 
 File organization using appropriately named folders and files
 
+CSS styling
